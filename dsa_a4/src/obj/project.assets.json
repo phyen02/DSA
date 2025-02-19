@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a3\\src\\src.csproj",
+      "projectUniqueName": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a4\\src\\src.csproj",
       "projectName": "src",
-      "projectPath": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a3\\src\\src.csproj",
+      "projectPath": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a4\\src\\src.csproj",
       "packagesPath": "C:\\Users\\phamh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a3\\src\\obj\\",
+      "outputPath": "C:\\Users\\phamh\\Documents\\Github\\DSA\\dsa_a4\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
